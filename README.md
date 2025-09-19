@@ -217,34 +217,34 @@ Sentiment-Analysis-ML-vs-DL/
 
 ## 📦 Dependencies
 
-Python 3.8+
+-Python 3.8+
 
-pandas, numpy, matplotlib, seaborn
+-pandas, numpy, matplotlib, seaborn
 
-scikit-learn
+-scikit-learn
 
-nltk, spacy
+-nltk, spacy
 
-tensorflow / keras
+-tensorflow / keras
 
 ## ⚠️ Limitations
 
-Neutral class imbalance
+-Neutral class imbalance
 
-DL models simplify to binary classification
+-DL models simplify to binary classification
 
-GPU needed for DL training
+-GPU needed for DL training
 
-Pickle compatibility issues between environments
+-Pickle compatibility issues between environments
 
 ## 🔮 Future Work
 
-Use pre-trained embeddings (AraVec, FastText).
+-Use pre-trained embeddings (AraVec, FastText).
 
-Try transformers (AraBERT, DistilBERT).
+-Try transformers (AraBERT, DistilBERT).
 
-Tune hyperparameters extensively.
+-Tune hyperparameters extensively.
 
-Expand dataset for balanced classes.
+-Expand dataset for balanced classes.
 
-Package as REST API for deployment.
+-Package as REST API for deployment.
